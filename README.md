@@ -1,7 +1,7 @@
 ![hippo](123.gif)
 # Pygame - Platformer
 
-Simple platformer game with path - following AI made using Python 3.9 and PyGame libary.
+Simple platformer game with custom strategy AI made using Python 3.9 and PyGame libary.
 
 ## Run
 
